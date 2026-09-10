@@ -1,0 +1,18 @@
+:root {
+  --chart-online: var(--good);
+  --chart-batch: var(--amber);
+  --chart-truth: var(--fg-hi);
+  --chart-drift: var(--steel);
+
+  --chart-1: var(--chart-online);
+  --chart-2: var(--chart-batch);
+  --chart-3: var(--chart-truth);
+  --chart-4: var(--chart-drift);
+  --chart-5: var(--bad);
+
+  --chart-background: var(--bg-sunk);
+  --chart-foreground: var(--fg-hi);
+  --chart-foreground-muted: var(--fg-low);
+  --chart-label: var(--fg-low);
+  --chart-grid: var(--line-hairline);
+}
